@@ -1,0 +1,68 @@
+
+#heading {background-color: darkturquoise;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    }
+#headshot {
+        width: 15%;
+        height: 10%;
+        border: olivedrab solid;
+        border-width: 5px;
+        border-radius: 50%;
+    }
+.intro {font-size: 30;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+     }
+.main{display: flex;}
+#sidebar {
+    width: 20%;
+    background-color: cyan;
+    color: #00fa9a;
+    padding: 1rem;
+    border: 10px solid grey;
+    }
+#content{
+    padding: 1rem;
+    margin: 1rem;
+    border: 10px solid black;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 110%;
+background-color: lightskyblue;
+}
+h1 { color: yellow;}
+h2 {color: black;}
+h3 {color: darkgreen}
+
+#content {width: 80%;}
+.Container {
+    border: blue;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+footer{background-color: cadetblue;
+text-align: center;}
+art {color: black;
+    background-color: cyan;
+}
+.li_text {color: black;}
+.liststyle {color: orange;}
+footer {padding-top: 20px;
+        background-color: cadetblue;
+        color: thistle;
+        text-align: center;
+        border: black solid;}
+
+ .icons {
+         width: 5rem;
+         height: auto;
+         margin: 2.5%;
+         border-radius: 20%;
+        }
+main {display: flex;
+    border: 10px solid blue;}
